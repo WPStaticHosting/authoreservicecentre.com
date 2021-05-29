@@ -659,7 +659,7 @@ var ecs_ajax_params = {"ajaxurl":"http:\/\/localhost:4923\/wp-admin\/admin-ajax.
 		</footer>
 				</div>
 		</div>
-		<link rel='stylesheet' id='happy-elementor-addons-150-css'  href='http://localhost:4923/wp-content/uploads/happyaddons/css/ha-150.css?ver=2.24.1.1622316334' media='all' />
+		<link rel='stylesheet' id='happy-elementor-addons-150-css'  href='http://localhost:4923/wp-content/uploads/happyaddons/css/ha-150.css?ver=2.24.1.1622330339' media='all' />
 <script id='astra-theme-js-js-extra'>
 var astra = {"break_point":"921","isRtl":""};
 </script>
