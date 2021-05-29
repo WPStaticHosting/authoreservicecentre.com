@@ -270,8 +270,8 @@ var ecs_ajax_params = {"ajaxurl":"http:\/\/localhost:4923\/wp-admin\/admin-ajax.
 				</div>
 		</div>
 				</article>
-				<article id="post-282" class="elementor-post elementor-grid-item ecs-post-loop post-282 post type-post status-publish format-standard hentry category-uncategorized ast-grid-common-col ast-full-width ast-article-post">
-				<div data-elementor-type="loop" data-elementor-id="150" class="elementor elementor-150 elementor-location-archive post-282 post type-post status-publish format-standard hentry category-uncategorized ast-article-single" data-elementor-settings="[]">
+				<article id="post-282" class="elementor-post elementor-grid-item ecs-post-loop post-282 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized ast-grid-common-col ast-full-width ast-article-post">
+				<div data-elementor-type="loop" data-elementor-id="150" class="elementor elementor-150 elementor-location-archive post-282 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized ast-article-single" data-elementor-settings="[]">
 		<div class="elementor-section-wrap">
 					<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-3447aa1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3447aa1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -281,7 +281,13 @@ var ecs_ajax_params = {"ajaxurl":"http:\/\/localhost:4923\/wp-admin\/admin-ajax.
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a8db18f" data-id="a8db18f" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<br />
+								<div class="elementor-element elementor-element-c01555b elementor-widget elementor-widget-image" data-id="c01555b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="http://localhost:4923/whirlpool/">
+							<img width="512" height="170" src="http://localhost:4923/wp-content/uploads/2021/05/whirlpool.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://localhost:4923/wp-content/uploads/2021/05/whirlpool.png 512w, http://localhost:4923/wp-content/uploads/2021/05/whirlpool-300x100.png 300w" sizes="(max-width: 512px) 100vw, 512px" />								</a>
+															</div>
+				</div>
+		<br />
 <b>Warning</b>:  Illegal string offset 'url' in <b>/usr/html/wp-content/plugins/elementor/includes/base/controls-stack.php</b> on line <b>1159</b><br />
 		<div data-ha-element-link="{&quot;url&quot;:&quot;http:\/\/localhost:4923\/whirlpool\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;}" style="cursor: pointer" class="elementor-element elementor-element-ae0bc7a elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="ae0bc7a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
