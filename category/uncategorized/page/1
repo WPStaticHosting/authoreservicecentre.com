@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 		<title>Uncategorized &#8211; India Repair</title>
-<link rel='dns-prefetch' href='//authoreservicecentre.com' />
+<link rel='dns-prefetch' href='//localhost' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="India Repair &raquo; Feed" href="http://localhost:4923/feed/" />
 <link rel="alternate" type="application/rss+xml" title="India Repair &raquo; Comments Feed" href="http://localhost:4923/comments/feed/" />
@@ -28,10 +28,10 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 <link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://localhost:4923/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.6.6' media='all' />
 <link rel='stylesheet' id='elementskit-css-widgetarea-control-editor-css'  href='http://localhost:4923/wp-content/plugins/elementskit-lite/modules/controls/assets/css/widgetarea-editor.css?ver=2.2.4' media='all' />
 <link rel='stylesheet' id='elementor-global-css'  href='http://localhost:4923/wp-content/uploads/elementor/css/global.css?ver=1622300825' media='all' />
-<link rel='stylesheet' id='elementor-post-72-css'  href='http://localhost:4923/wp-content/uploads/elementor/css/post-72.css?ver=1622300825' media='all' />
+<link rel='stylesheet' id='elementor-post-72-css'  href='http://localhost:4923/wp-content/uploads/elementor/css/post-72.css?ver=1622302344' media='all' />
 <link rel='stylesheet' id='happy-icons-css'  href='http://localhost:4923/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=2.24.1' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='http://localhost:4923/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' media='all' />
-<link rel='stylesheet' id='elementor-post-87-css'  href='http://localhost:4923/wp-content/uploads/elementor/css/post-87.css?ver=1622300826' media='all' />
+<link rel='stylesheet' id='elementor-post-87-css'  href='http://localhost:4923/wp-content/uploads/elementor/css/post-87.css?ver=1622302344' media='all' />
 <link rel='stylesheet' id='elementor-post-145-css'  href='http://localhost:4923/wp-content/uploads/elementor/css/post-145.css?ver=1622301089' media='all' />
 <link rel='stylesheet' id='elementor-icons-ekiticons-css'  href='http://localhost:4923/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.2.4' media='all' />
 <link rel='stylesheet' id='ekit-widget-styles-css'  href='http://localhost:4923/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.2.4' media='all' />
@@ -59,7 +59,7 @@ var ecs_ajax_params = {"ajaxurl":"http:\/\/localhost:4923\/wp-admin\/admin-ajax.
 <link rel="https://api.w.org/" href="http://localhost:4923/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost:4923/wp-json/wp/v2/categories/1" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:4923/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.6" />
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
-<body class="archive category category-uncategorized category-1 ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.4.5 elementor-page-145 elementor-default elementor-template-canvas elementor-kit-13">
+<body class="archive category category-uncategorized category-1 wp-custom-logo ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.4.5 elementor-page-145 elementor-default elementor-template-canvas elementor-kit-13">
 			<div data-elementor-type="archive" data-elementor-id="145" class="elementor elementor-145 elementor-location-archive" data-elementor-settings="[]">
 		<div class="elementor-section-wrap">
 					<header data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-41ab4531 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="41ab4531" data-element_type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
@@ -270,8 +270,8 @@ var ecs_ajax_params = {"ajaxurl":"http:\/\/localhost:4923\/wp-admin\/admin-ajax.
 				</div>
 		</div>
 				</article>
-				<article id="post-282" class="elementor-post elementor-grid-item ecs-post-loop post-282 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized ast-grid-common-col ast-full-width ast-article-post">
-				<div data-elementor-type="loop" data-elementor-id="150" class="elementor elementor-150 elementor-location-archive post-282 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized ast-article-single" data-elementor-settings="[]">
+				<article id="post-282" class="elementor-post elementor-grid-item ecs-post-loop post-282 post type-post status-publish format-standard hentry category-uncategorized ast-grid-common-col ast-full-width ast-article-post">
+				<div data-elementor-type="loop" data-elementor-id="150" class="elementor elementor-150 elementor-location-archive post-282 post type-post status-publish format-standard hentry category-uncategorized ast-article-single" data-elementor-settings="[]">
 		<div class="elementor-section-wrap">
 					<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-3447aa1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3447aa1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -281,13 +281,7 @@ var ecs_ajax_params = {"ajaxurl":"http:\/\/localhost:4923\/wp-admin\/admin-ajax.
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a8db18f" data-id="a8db18f" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c01555b elementor-widget elementor-widget-image" data-id="c01555b" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="http://localhost:4923/whirlpool/">
-							<img width="214" height="107" src="http://localhost:4923/wp-content/uploads/2021/05/lg.png" class="attachment-large size-large" alt="" loading="lazy" />								</a>
-															</div>
-				</div>
-		<br />
+						<br />
 <b>Warning</b>:  Illegal string offset 'url' in <b>/usr/html/wp-content/plugins/elementor/includes/base/controls-stack.php</b> on line <b>1159</b><br />
 		<div data-ha-element-link="{&quot;url&quot;:&quot;http:\/\/localhost:4923\/whirlpool\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;}" style="cursor: pointer" class="elementor-element elementor-element-ae0bc7a elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="ae0bc7a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -372,7 +366,7 @@ var ecs_ajax_params = {"ajaxurl":"http:\/\/localhost:4923\/wp-admin\/admin-ajax.
 								<div class="elementor-element elementor-element-c01555b elementor-widget elementor-widget-image" data-id="c01555b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="http://localhost:4923/lg/">
-							<img width="214" height="107" src="http://localhost:4923/wp-content/uploads/2021/05/lg.png" class="attachment-large size-large" alt="" loading="lazy" />								</a>
+							<img width="214" height="107" src="http://localhost:4923/wp-content/uploads/2021/05/lg-1.png" class="attachment-large size-large" alt="" loading="lazy" />								</a>
 															</div>
 				</div>
 		<br />
